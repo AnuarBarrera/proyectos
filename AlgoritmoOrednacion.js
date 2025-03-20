@@ -1,5 +1,5 @@
 const num = [];
-  for (let i = 0; i < 9; i++) {
+  for (let i = 0; i < 9999; i++) {
     num.push(Math.floor(Math.random() * 10000)); // Genera un número aleatorio entre 0 y 9999
   }
 
